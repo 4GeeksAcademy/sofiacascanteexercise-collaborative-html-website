@@ -1,3 +1,17 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.gris{
+    color: gray;
+}
+
+.derecha{
+    float: right;
+    background-color: white;
+}
+
+.img{
+    float: left;
+    background-color: white;
 }
