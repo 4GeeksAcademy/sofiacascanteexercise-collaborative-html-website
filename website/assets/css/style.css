@@ -3,15 +3,26 @@ body{
 }
 
 .gris{
-    color: gray;
+    color:gray
 }
 
-.derecha{
-    float: right;
-    background-color: white;
+img{
+    align-content: space-evenly;
 }
 
-.img{
-    float: left;
-    background-color: white;
+.row d-flex{
+    margin-left: 60px;
+   margin-right: 50px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+p{
+    text-align: justify;
+}
+
+.contenido{
+    align-content: space-evenly;
 }
