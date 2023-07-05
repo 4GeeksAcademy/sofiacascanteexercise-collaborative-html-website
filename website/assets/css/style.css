@@ -1,28 +1,4 @@
-body{
-    background: white;
-}
 
 .gris{
     color:gray
-}
-
-img{
-    align-content: space-evenly;
-}
-
-.row d-flex{
-    margin-left: 60px;
-   margin-right: 50px;
-}
-
-h1{
-    font-size: 45px;
-}
-
-p{
-    text-align: justify;
-}
-
-conteiner-fluid{
-align-content: space-evenly
 }
