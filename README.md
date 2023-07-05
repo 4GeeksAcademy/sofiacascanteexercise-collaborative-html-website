@@ -1,3 +1,8 @@
+Jenipher Tagline 
+Tania navbar y porfolio
+Yolanda first heading 
+Mary services 
+Sofia Cascante contact
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.
